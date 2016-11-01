@@ -1,5 +1,5 @@
 ﻿# HPSR-2016-workshop-paper
-This paper proposes a scheme to reduce a size of
+  This paper proposes a scheme to reduce a size of
 a packet header for a segment routing (SR) architecture in a
 software-defined network. In the segment routing architecture,
 a segment identification (SID) list inserted in packet header is
